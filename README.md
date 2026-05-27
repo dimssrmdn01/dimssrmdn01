@@ -15,17 +15,17 @@
 <!-- Badges -->
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=dimssrmdn01&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
-&nbsp;
-![Open to Collab](https://img.shields.io/badge/🤝_Open_To-Collaborate-00ffb3?style=for-the-badge)
-&nbsp;
-![Data Enthusiast](https://img.shields.io/badge/🔥_Data-Enthusiast-a78bfa?style=for-the-badge)
-&nbsp;
-![AI/ML](https://img.shields.io/badge/🤖_AI_%26-ML_Lover-ff6b9d?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=👁+24+profile+views+and+counting...;🤝+Open+to+collaborate+%26+internships;🔥+Data+Enthusiast+%7C+AI%2FML+Lover" alt="status"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/-Python-080c14?style=flat-square&logo=python&logoColor=00d4ff)
+![](https://img.shields.io/badge/-Machine%20Learning-080c14?style=flat-square&logo=tensorflow&logoColor=a78bfa)
+![](https://img.shields.io/badge/-Data%20Analytics-080c14?style=flat-square&logo=googleanalytics&logoColor=00ffb3)
+![](https://img.shields.io/badge/-Financial%20Analysis-080c14?style=flat-square&logo=chartdotjs&logoColor=ffcc00)
+![](https://img.shields.io/badge/-Open%20to%20Collaborate-080c14?style=flat-square&logo=handshake&logoColor=ff6b9d)
 
 </div>
-
-<br/>
 
 ---
 
@@ -35,8 +35,7 @@
 <tr>
 <td valign="top" width="60%">
 
-🧑‍💻 &nbsp;**Dimas Arya Ramadhan** - Data Science student with a passion for turning messy data into clean insights.
-
+🧑‍💻 &nbsp;**Data Science** student by day, data detective by night - obsessed with finding the signal in the noise and building things that make an impact.
 <br/>
 
 🔭 &nbsp;Working on **AI & ML** projects\
