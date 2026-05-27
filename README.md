@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/-Python-080c14?style=flat-square&logo=python&logoColor=00d4ff)
 ![](https://img.shields.io/badge/-Machine%20Learning-080c14?style=flat-square&logo=tensorflow&logoColor=a78bfa)
 ![](https://img.shields.io/badge/-Data%20Analytics-080c14?style=flat-square&logo=googleanalytics&logoColor=00ffb3)
-![](https://img.shields.io/badge/-Financial%20Analysis-080c14?style=flat-square&logo=chartdotjs&logoColor=ffcc00)
+![](https://img.shields.io/badge/-Financial%20Market%20Analysis-080c14?style=flat-square&logo=chartdotjs&logoColor=ffcc00)
 
 </div>
 
