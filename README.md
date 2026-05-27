@@ -3,6 +3,15 @@
 
 # 👋 Hey, I'm Dimas Arya Ramadhan
 
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Dimas+%F0%9F%91%8B;Data+Scientist+%26+Analyst+%F0%9F%93%8A;AI+%26+Machine+Learning+%F0%9F%A4%96;Building+cool+things+with+data+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG"/>
+  </a>
+</div>
+
+<br/>
+
 <!-- Badges -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=👁+24+profile+views+and+counting...;🤝+Open+to+collaborate+%26+internships;🔥+Data+Enthusiast+%7C+AI%2FML+Lover" alt="status"/>
