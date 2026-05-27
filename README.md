@@ -13,7 +13,6 @@
 <br/>
 
 <!-- Badges -->
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=👁+24+profile+views+and+counting...;🤝+Open+to+collaborate+%26+internships;🔥+Data+Enthusiast+%7C+AI%2FML+Lover" alt="status"/>
 
