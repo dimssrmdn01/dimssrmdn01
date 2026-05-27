@@ -1,8 +1,16 @@
-[Dimss.md](https://github.com/user-attachments/files/28302947/Dimss.md)
+<!-- Header Capsule -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c14,50:0d2137,100:00d4ff&height=200&section=header&text=Dimas%20Arya%20Ramadhan&fontSize=40&fontColor=00d4ff&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descColor=a78bfa&animation=fadeIn" width="100%"/>
+</div>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Dimas+Arya+Ramadhan+%F0%9F%91%8B;Data+Scientist+%26+Analyst+%F0%9F%93%8A;AI+%26+Machine+Learning+%F0%9F%A4%96;Building+cool+things+with+data+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Dimas+%F0%9F%91%8B;Data+Scientist+%26+Analyst+%F0%9F%93%8A;AI+%26+Machine+Learning+%F0%9F%A4%96;Building+cool+things+with+data+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG"/>
+  </a>
+</div>
+
+<br/>
 
 <!-- Badges -->
 <div align="center">
@@ -17,6 +25,8 @@
 
 </div>
 
+<br/>
+
 ---
 
 ## 🙋‍♂️ About Me
@@ -27,12 +37,10 @@ Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who love
 
 - 🔭 Currently working on **AI & Machine Learning** projects
 - 🌱 Exploring **Deep Learning**, **Data Analytics** & **Financial Market Analysis**
-- 💡 I believe data tells stories - my job is to listen
+- 💡 I believe data tells stories — my job is to listen
 - 🎯 Goal: Build impactful data-driven solutions
-- 📬 Reach me at **dimasaryaramadhan6@gmail.com**
 
 <br clear="right"/>
-
 
 ---
 
@@ -55,7 +63,17 @@ Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who love
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dimssrmdn01&theme=tokyonight&hide_border=true&background=080c14&stroke=00d4ff&ring=a78bfa&fire=ff7b00&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c8d8f0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dimssrmdn01&theme=tokyonight&hide_border=true&background=080c14&stroke=00d4ff&ring=a78bfa&fire=ff7b00&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c8d8f0&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=dimssrmdn01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
@@ -63,21 +81,28 @@ Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who love
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-080c14?style=for-the-badge&logo=python&logoColor=00d4ff)
 ![R](https://img.shields.io/badge/R-080c14?style=for-the-badge&logo=r&logoColor=00ffb3)
 ![SQL](https://img.shields.io/badge/SQL-080c14?style=for-the-badge&logo=mysql&logoColor=00d4ff)
 ![HTML5](https://img.shields.io/badge/HTML5-080c14?style=for-the-badge&logo=html5&logoColor=00d4ff)
 
-### AI / Data Science
+**AI / Data Science**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-080c14?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
 ![PyTorch](https://img.shields.io/badge/PyTorch-080c14?style=for-the-badge&logo=pytorch&logoColor=00d4ff)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-080c14?style=for-the-badge&logo=scikit-learn&logoColor=00ffb3)
 ![Pandas](https://img.shields.io/badge/Pandas-080c14?style=for-the-badge&logo=pandas&logoColor=a78bfa)
 ![NumPy](https://img.shields.io/badge/NumPy-080c14?style=for-the-badge&logo=numpy&logoColor=00d4ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-080c14?style=for-the-badge&logo=python&logoColor=00d4ff)
+![Seaborn](https://img.shields.io/badge/Seaborn-080c14?style=for-the-badge&logo=python&logoColor=a78bfa)
 ![Jupyter](https://img.shields.io/badge/Jupyter-080c14?style=for-the-badge&logo=jupyter&logoColor=ffcc00)
 
-### Tools
+**Tools**
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-080c14?style=for-the-badge&logo=jupyter&logoColor=ffcc00)
 ![Kaggle](https://img.shields.io/badge/Kaggle-080c14?style=for-the-badge&logo=kaggle&logoColor=00d4ff)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-080c14?style=for-the-badge&logo=googlecolab&logoColor=a78bfa)
@@ -87,16 +112,17 @@ Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who love
 ![Git](https://img.shields.io/badge/Git-080c14?style=for-the-badge&logo=git&logoColor=ff7b00)
 ![VS Code](https://img.shields.io/badge/VS_Code-080c14?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff)
 
+</div>
+
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Dimas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dimssrmdn01&bg_color=080c14&color=00d4ff&line=a78bfa&point=00d4ff&area=true&hide_border=true&area_color=00d4ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dimssrmdn01&bg_color=080c14&color=00d4ff&line=a78bfa&point=00d4ff&area=true&hide_border=true&area_color=00d4ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
 
 ---
 
@@ -114,16 +140,17 @@ Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who love
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/dimas-arya-ramadhan)
-[![GitHub](https://img.shields.io/badge/GitHub-080c14?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/dimssrmdn01)
-[![Email](https://img.shields.io/badge/Email-080c14?style=for-the-badge&logo=gmail&logoColor=ff7b00)](mailto:dimasaryaramadhan6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimas%20Arya%20Ramadhan-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-arya-ramadhan)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-dimssrmdn01-080c14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dimssrmdn01)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-dimasaryaramadhan6@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasaryaramadhan6@gmail.com)
 
 </div>
 
----
+<br/>
 
+<!-- Footer -->
 <div align="center">
-
-*"Without data, you are just another person with an opinion."* ⚡
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d2137,100:080c14&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9A%A1&fontSize=20&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
