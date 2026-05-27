@@ -37,8 +37,9 @@ Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who love
 
 - 🔭 Currently working on **AI & Machine Learning** projects
 - 🌱 Exploring **Deep Learning**, **Data Analytics** & **Financial Market Analysis**
-- 💡 I believe data tells stories — my job is to listen
+- 💡 I believe data tells stories - my job is to listen
 - 🎯 Goal: Build impactful data-driven solutions
+- 📬 Reach me at **dimasaryaramadhan6@gmail.com**
 
 <br clear="right"/>
 
@@ -67,14 +68,6 @@ Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who love
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=dimssrmdn01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
-</div>
 
 ---
 
