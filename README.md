@@ -15,23 +15,19 @@
 
 ---
 
-## 🧠 About Me
+## 🙋‍♂️ About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name        = "Dimas Arya Ramadhan"
-        self.prodi       = "Sains Data"
-        self.interests   = ["AI/ML", "Data Analytics", "Financial Market Analysis"]
-        self.currently   = "Building data projects 🚀"
-        self.fun_fact    = "print() debugger, no shame 😤"
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
 
-    def say_hi(self):
-        print("Thanks for stopping by! ⚡")
+Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who loves turning raw data into meaningful insights.
 
-me = Developer()
-me.say_hi()
-```
+- 🔭 Currently working on **AI & Machine Learning** projects
+- 🌱 Exploring **Machine Learning**, **Data Analytics** & **Financial Market Analysis**
+- 💡 I believe data tells stories — my job is to listen
+- 🎯 Goal: Build impactful data-driven solutions
+- 📬 Reach me at **dimasaryaramadhan6@gmail.com**
+
+<br clear="right"/>
 
 ---
 
@@ -40,10 +36,10 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/dimssrmdn01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimssrmdn01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=080c14&title_color=00d4ff&icon_color=a78bfa&text_color=c8d8f0"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dimssrmdn01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=080c14&title_color=00d4ff&icon_color=a78bfa&text_color=c8d8f0"/>
 </a>
 <a href="https://github.com/dimssrmdn01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimssrmdn01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=00d4ff&text_color=c8d8f0"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimssrmdn01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=00d4ff&text_color=c8d8f0"/>
 </a>
 
 </div>
@@ -65,6 +61,7 @@ me.say_hi()
 ### Languages
 ![Python](https://img.shields.io/badge/Python-080c14?style=for-the-badge&logo=python&logoColor=00d4ff)
 ![R](https://img.shields.io/badge/R-080c14?style=for-the-badge&logo=r&logoColor=00ffb3)
+![SQL](https://img.shields.io/badge/SQL-080c14?style=for-the-badge&logo=mysql&logoColor=00d4ff)
 
 ### AI / Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-080c14?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
@@ -75,11 +72,14 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/Jupyter-080c14?style=for-the-badge&logo=jupyter&logoColor=ffcc00)
 
 ### Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-080c14?style=for-the-badge&logo=jupyter&logoColor=ffcc00)
+![Kaggle](https://img.shields.io/badge/Kaggle-080c14?style=for-the-badge&logo=kaggle&logoColor=00d4ff)
+![Google Colab](https://img.shields.io/badge/Google_Colab-080c14?style=for-the-badge&logo=googlecolab&logoColor=a78bfa)
+![MySQL](https://img.shields.io/badge/MySQL-080c14?style=for-the-badge&logo=mysql&logoColor=00d4ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-080c14?style=for-the-badge&logo=postgresql&logoColor=00ffb3)
+![Tableau](https://img.shields.io/badge/Tableau-080c14?style=for-the-badge&logo=tableau&logoColor=ff7b00)
 ![Git](https://img.shields.io/badge/Git-080c14?style=for-the-badge&logo=git&logoColor=ff7b00)
-![GitHub](https://img.shields.io/badge/GitHub-080c14?style=for-the-badge&logo=github&logoColor=00d4ff)
-![Docker](https://img.shields.io/badge/Docker-080c14?style=for-the-badge&logo=docker&logoColor=a78bfa)
 ![VS Code](https://img.shields.io/badge/VS_Code-080c14?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff)
-![Godot](https://img.shields.io/badge/Godot-080c14?style=for-the-badge&logo=godotengine&logoColor=00ffb3)
 
 ---
 
