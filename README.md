@@ -1,8 +1,3 @@
-<!-- Header Capsule -->
-<div align="center">
-
-# 👋 Hey, I'm Dimas Arya Ramadhan
-
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
