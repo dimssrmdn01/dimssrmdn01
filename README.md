@@ -42,7 +42,7 @@
 🔭 &nbsp;Working on **AI & ML** projects\
 🌱 &nbsp;Exploring **Deep Learning** & **Financial Market Analysis**\
 💡 &nbsp;Believer that data tells stories - my job is to listen\
-⚡ &nbsp;`print()` debugger, no shame 😤\
+⚡ &nbsp;Debugger, no shame 😤\
 🎯 &nbsp;Goal: Build impactful data-driven solutions\
 📬 &nbsp;[dimasaryaramadhan6@gmail.com](mailto:dimasaryaramadhan6@gmail.com)
 
