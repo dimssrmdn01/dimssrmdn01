@@ -1,6 +1,6 @@
 <!-- Header Capsule -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c14,50:0d2137,100:00d4ff&height=200&section=header&text=Dimas%20Arya%20Ramadhan&fontSize=40&fontColor=00d4ff&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descColor=a78bfa&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Dimas%20Arya%20Ramadhan&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descColor=a78bfa&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- Typing SVG -->
@@ -73,7 +73,7 @@ Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who love
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dimssrmdn01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dimssrmdn01&theme=nord&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
