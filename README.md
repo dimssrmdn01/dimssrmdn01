@@ -1,8 +1,15 @@
 <!-- Header Capsule -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Dimas%20Arya%20Ramadhan&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descColor=a78bfa&animation=fadeIn" width="100%"/>
-</div>
 
+# 👋 Hey, I'm Dimas Arya Ramadhan
+
+### 🚀 Data Scientist · AI/ML Enthusiast · Financial Market Analyst
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Dimas+%F0%9F%91%8B;Data+Scientist+%26+Analyst+%F0%9F%93%8A;AI+%26+Machine+Learning+%F0%9F%A4%96;Building+cool+things+with+data+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG"/>
+</a>
+
+</div>
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -73,8 +80,7 @@ Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who love
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dimssrmdn01&theme=nord&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=dimssrmdn01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
 </div>
 
 ---
