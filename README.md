@@ -26,12 +26,13 @@
 Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who loves turning raw data into meaningful insights.
 
 - 🔭 Currently working on **AI & Machine Learning** projects
-- 🌱 Exploring **Machine Learning**, **Data Analytics** & **Financial Market Analysis**
+- 🌱 Exploring **Deep Learning**, **Data Analytics** & **Financial Market Analysis**
 - 💡 I believe data tells stories - my job is to listen
 - 🎯 Goal: Build impactful data-driven solutions
 - 📬 Reach me at **dimasaryaramadhan6@gmail.com**
 
 <br clear="right"/>
+
 
 ---
 
