@@ -23,7 +23,7 @@ Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who love
 
 - 🔭 Currently working on **AI & Machine Learning** projects
 - 🌱 Exploring **Machine Learning**, **Data Analytics** & **Financial Market Analysis**
-- 💡 I believe data tells stories — my job is to listen
+- 💡 I believe data tells stories - my job is to listen
 - 🎯 Goal: Build impactful data-driven solutions
 - 📬 Reach me at **dimasaryaramadhan6@gmail.com**
 
@@ -62,6 +62,7 @@ Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who love
 ![Python](https://img.shields.io/badge/Python-080c14?style=for-the-badge&logo=python&logoColor=00d4ff)
 ![R](https://img.shields.io/badge/R-080c14?style=for-the-badge&logo=r&logoColor=00ffb3)
 ![SQL](https://img.shields.io/badge/SQL-080c14?style=for-the-badge&logo=mysql&logoColor=00d4ff)
+![HTML5](https://img.shields.io/badge/HTML5-080c14?style=for-the-badge&logo=html5&logoColor=00d4ff)
 
 ### AI / Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-080c14?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
