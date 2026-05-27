@@ -31,17 +31,29 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
-Hey! I'm **Dimas Arya Ramadhan**, a passionate **Data Science** student who loves turning raw data into meaningful insights.
+🧑‍💻 &nbsp;**Dimas Arya Ramadhan** - Data Science student with a passion for turning messy data into clean insights.
 
-- 🔭 Currently working on **AI & Machine Learning** projects
-- 🌱 Exploring **Deep Learning**, **Data Analytics** & **Financial Market Analysis**
-- 💡 I believe data tells stories - my job is to listen
-- 🎯 Goal: Build impactful data-driven solutions
-- 📬 Reach me at **dimasaryaramadhan6@gmail.com**
+<br/>
 
-<br clear="right"/>
+🔭 &nbsp;Working on **AI & ML** projects\
+🌱 &nbsp;Exploring **Deep Learning** & **Financial Market Analysis**\
+💡 &nbsp;Believer that data tells stories - my job is to listen\
+⚡ &nbsp;`print()` debugger, no shame 😤\
+🎯 &nbsp;Goal: Build impactful data-driven solutions\
+📬 &nbsp;[dimasaryaramadhan6@gmail.com](mailto:dimasaryaramadhan6@gmail.com)
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
