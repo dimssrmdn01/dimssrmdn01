@@ -1,75 +1,137 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dimas%20Arya%20Ramadhan&fontSize=50&fontAlignY=35&desc=Data%20Science%20Undergrad%20@%20ITERA%20%7C%20Quant%20%26%20ML%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling" width="100%" />
-
+[README.md](https://github.com/user-attachments/files/28302146/README.md)
 <div align="center">
-  
-  [![Typing Label](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Translating+Market+Data+Into+Alpha;Building+Robust+ML+Pipelines;Optimizing+Relational+Databases)]()
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Dimas+Arya+Ramadhan+%F0%9F%91%8B;Data+Scientist+%26+Analyst+%F0%9F%93%8A;AI+%26+Machine+Learning+%F0%9F%A4%96;Building+cool+things+with+data+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+<!-- Visitor Badge -->
+![Visitor Count](https://komarev.com/ghpvc/?username=dimssrmdn01&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+&nbsp;
+![Open to Collab](https://img.shields.io/badge/Open%20To-Collaborate-00ffb3?style=for-the-badge)
+&nbsp;
+![Sains Data](https://img.shields.io/badge/Prodi-Sains%20Data-ffcc00?style=for-the-badge)
 
 </div>
 
 ---
 
-### 👨‍💻 Beyond the Code
+## 🧠 About Me
 
-I am a Data Science student focused on the intersection of **Statistical Learning, Financial Markets, and Data Architecture**. I specialize in building predictive models for dynamic environments and designing scalable data systems.
+```python
+class Developer:
+    def __init__(self):
+        self.name        = "Dimas Arya Ramadhan"
+        self.prodi       = "Sains Data"
+        self.interests   = ["AI/ML", "Data Analytics", "SysAdmin"]
+        self.currently   = "Building data projects 🚀"
+        self.fun_fact    = "print() debugger, no shame 😤"
 
-* 🎓 **Education:** Pursuing a degree in Data Science (Statistika Sains Data) at Institut Teknologi Sumatera.
-* 🔭 **Current Focus:** Developing quantitative trading algorithms for XAUUSD and Crypto assets using tree-based models and time-series analysis.
-* 🏆 **Recent Milestone:** Awarded the Machine Learning & Programming Scholarship by Dicoding (Early 2025).
+    def say_hi(self):
+        print("Thanks for stopping by! ⚡")
 
----
-
-### ⚡ Tech Stack & Arsenal
-
-**Data Science & Modeling**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-150458?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-**Database & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+me = Developer()
+me.say_hi()
+```
 
 ---
 
-### 🚀 Highlighted Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 📈 **[XAUUSD Quantitative Forecasting](https://github.com/dimssrmdn01/xauusd-ml-prediction)** | An automated ML pipeline for daily Gold directional prediction using hyperparameter-tuned `XGBoost` and extensive time-series feature engineering. | `Python`, `XGBoost`, `Pandas` |
-| 🗄️ **Academic DB Architecture** | Designed a highly normalized relational database (3NF) for academic systems (SIAKAD) with strict data integrity and optimized query performance. | `MySQL`, `Database Design` |
-| 📊 **Advanced Regression Analysis** | Implemented predictive modeling techniques including Ridge, Lasso, PCR, and PLS regressions for complex multivariate datasets using `mlr3`. | `R`, `Statistical Modeling` |
-
----
-
-### 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dimssrmdn01&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Trophies" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimssrmdn01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimssrmdn01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<a href="https://github.com/dimssrmdn01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimssrmdn01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=080c14&title_color=00d4ff&icon_color=a78bfa&text_color=c8d8f0"/>
+</a>
+<a href="https://github.com/dimssrmdn01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimssrmdn01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=00d4ff&text_color=c8d8f0"/>
+</a>
+
 </div>
 
 ---
 
-### 📬 Let's Connect
+## 🔥 Streak Stats
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dimas-arya-ramadhan-4176a5321" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dimssrmdn01&theme=tokyonight&hide_border=true&background=080c14&stroke=00d4ff&ring=a78bfa&fire=ff7b00&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c8d8f0)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-080c14?style=for-the-badge&logo=python&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-080c14?style=for-the-badge&logo=javascript&logoColor=a78bfa)
+![R](https://img.shields.io/badge/R-080c14?style=for-the-badge&logo=r&logoColor=00ffb3)
+![HTML5](https://img.shields.io/badge/HTML5-080c14?style=for-the-badge&logo=html5&logoColor=00d4ff)
+![CSS3](https://img.shields.io/badge/CSS3-080c14?style=for-the-badge&logo=css3&logoColor=a78bfa)
+![C++](https://img.shields.io/badge/C++-080c14?style=for-the-badge&logo=cplusplus&logoColor=00ffb3)
+![GDScript](https://img.shields.io/badge/GDScript-080c14?style=for-the-badge&logo=godotengine&logoColor=ffcc00)
+
+### AI / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-080c14?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
+![PyTorch](https://img.shields.io/badge/PyTorch-080c14?style=for-the-badge&logo=pytorch&logoColor=00d4ff)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-080c14?style=for-the-badge&logo=scikit-learn&logoColor=00ffb3)
+![Pandas](https://img.shields.io/badge/Pandas-080c14?style=for-the-badge&logo=pandas&logoColor=a78bfa)
+![NumPy](https://img.shields.io/badge/NumPy-080c14?style=for-the-badge&logo=numpy&logoColor=00d4ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-080c14?style=for-the-badge&logo=jupyter&logoColor=ffcc00)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-080c14?style=for-the-badge&logo=git&logoColor=ff7b00)
+![GitHub](https://img.shields.io/badge/GitHub-080c14?style=for-the-badge&logo=github&logoColor=00d4ff)
+![Docker](https://img.shields.io/badge/Docker-080c14?style=for-the-badge&logo=docker&logoColor=a78bfa)
+![VS Code](https://img.shields.io/badge/VS_Code-080c14?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff)
+![Godot](https://img.shields.io/badge/Godot-080c14?style=for-the-badge&logo=godotengine&logoColor=00ffb3)
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Dimas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dimssrmdn01&bg_color=080c14&color=00d4ff&line=a78bfa&point=00d4ff&area=true&hide_border=true&area_color=00d4ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎵 Now Playing on Spotify
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=080c14&border_color=00d4ff)](https://open.spotify.com/user/dimssrmdn01)
+
+</div>
+
+---
+
+## 💬 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/dimas-arya-ramadhan)
+[![GitHub](https://img.shields.io/badge/GitHub-080c14?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/dimssrmdn01)
+[![Email](https://img.shields.io/badge/Email-080c14?style=for-the-badge&logo=gmail&logoColor=ff7b00)](mailto:dimasaryaramadhan6@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Without data, you are just another person with an opinion."* ⚡
+
+</div>
