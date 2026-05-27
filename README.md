@@ -22,7 +22,7 @@ class Developer:
     def __init__(self):
         self.name        = "Dimas Arya Ramadhan"
         self.prodi       = "Sains Data"
-        self.interests   = ["AI/ML", "Data Analytics", "SysAdmin"]
+        self.interests   = ["AI/ML", "Data Analytics", "Financial Market Analysis"]
         self.currently   = "Building data projects 🚀"
         self.fun_fact    = "print() debugger, no shame 😤"
 
@@ -64,12 +64,7 @@ me.say_hi()
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-080c14?style=for-the-badge&logo=python&logoColor=00d4ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-080c14?style=for-the-badge&logo=javascript&logoColor=a78bfa)
 ![R](https://img.shields.io/badge/R-080c14?style=for-the-badge&logo=r&logoColor=00ffb3)
-![HTML5](https://img.shields.io/badge/HTML5-080c14?style=for-the-badge&logo=html5&logoColor=00d4ff)
-![CSS3](https://img.shields.io/badge/CSS3-080c14?style=for-the-badge&logo=css3&logoColor=a78bfa)
-![C++](https://img.shields.io/badge/C++-080c14?style=for-the-badge&logo=cplusplus&logoColor=00ffb3)
-![GDScript](https://img.shields.io/badge/GDScript-080c14?style=for-the-badge&logo=godotengine&logoColor=ffcc00)
 
 ### AI / Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-080c14?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
@@ -96,15 +91,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 🎵 Now Playing on Spotify
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=080c14&border_color=00d4ff)](https://open.spotify.com/user/dimssrmdn01)
-
-</div>
 
 ---
 
