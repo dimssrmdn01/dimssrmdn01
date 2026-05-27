@@ -4,15 +4,18 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Dimas+Arya+Ramadhan+%F0%9F%91%8B;Data+Scientist+%26+Analyst+%F0%9F%93%8A;AI+%26+Machine+Learning+%F0%9F%A4%96;Building+cool+things+with+data+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-<!-- Visitor Badge -->
+<!-- Badges -->
+<div align="center">
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=dimssrmdn01&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 &nbsp;
-![Open to Collab](https://img.shields.io/badge/Open%20To-Collaborate-00ffb3?style=for-the-badge)
+![Open to Collab](https://img.shields.io/badge/🤝_Open_To-Collaborate-00ffb3?style=for-the-badge)
 &nbsp;
-![Sains Data](https://img.shields.io/badge/Prodi-Sains%20Data-ffcc00?style=for-the-badge)
+![Data Enthusiast](https://img.shields.io/badge/🔥_Data-Enthusiast-a78bfa?style=for-the-badge)
+&nbsp;
+![AI/ML](https://img.shields.io/badge/🤖_AI_%26-ML_Lover-ff6b9d?style=for-the-badge)
 
 </div>
-
 ---
 
 ## 🙋‍♂️ About Me
