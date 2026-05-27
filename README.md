@@ -14,9 +14,9 @@
 
 <!-- Badges -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=👁+24+profile+views+and+counting...;🤝+Open+to+collaborate+%26+internships;🔥+Data+Enthusiast+%7C+AI%2FML+Lover" alt="status"/>
+![Visitor Count](https://komarev.com/ghpvc/?username=dimssrmdn01&style=flat-square&color=00d4ff&label=👁+Profile+Views)
 
-<br/><br/>
+<br/>
 
 ![](https://img.shields.io/badge/-Python-080c14?style=flat-square&logo=python&logoColor=00d4ff)
 ![](https://img.shields.io/badge/-Machine%20Learning-080c14?style=flat-square&logo=tensorflow&logoColor=a78bfa)
