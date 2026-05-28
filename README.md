@@ -22,7 +22,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 <table>
 <tr>
@@ -33,7 +33,7 @@
 
 🔭 &nbsp;Working on **AI & ML** projects\
 🌱 &nbsp;Exploring **Deep Learning** & **Financial Market Analysis**\
-💡 &nbsp;Believer that data tells stories - my job is to listen\
+💡 &nbsp;Believer that data tells stories and my job is to listen\
 ⚡ &nbsp;Debugger, no shame 😤\
 🎯 &nbsp;Goal: Build impactful data-driven solutions\
 📬 &nbsp;[dimasaryaramadhan6@gmail.com](mailto:dimasaryaramadhan6@gmail.com)
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 🔥 Streak Stats
+##  Streak Stats
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -111,7 +111,7 @@
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -121,7 +121,7 @@
 
 ---
 
-## 💬 Quote of the Day
+##  Quote of the Day
 
 <div align="center">
 
@@ -131,7 +131,7 @@
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
