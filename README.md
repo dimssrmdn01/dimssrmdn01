@@ -36,7 +36,6 @@
 - &nbsp;Believer that data tells stories and my job is to listen\
 - &nbsp;Debugger, no shame\
 - &nbsp;Goal: Build impactful data-driven solutions\
-- &nbsp;[dimasaryaramadhan6@gmail.com](mailto:dimasaryaramadhan6@gmail.com)
 
 </td>
 <td valign="top" width="40%" align="center">
