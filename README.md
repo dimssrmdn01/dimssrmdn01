@@ -31,11 +31,12 @@
  &nbsp;**Data Science** student by day, data detective by night - obsessed with finding the signal in the noise and building things that make an impact.
 <br/>
 
-- &nbsp;Working on **AI & ML** projects
-- &nbsp;Exploring **Deep Learning** & **Financial Market Analysis**
+- &nbsp;Working on AI & ML projects
+- &nbsp;Exploring Deep Learning & Financial Market Analysis
 - &nbsp;Believer that data tells stories and my job is to listen
 - &nbsp;Debugger, no shame
 - &nbsp;Goal: Build impactful data-driven solutions
+- &nbsp;Student of Data Science'24
 
 </td>
 <td valign="top" width="40%" align="center">
