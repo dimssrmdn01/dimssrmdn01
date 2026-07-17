@@ -36,7 +36,6 @@
 - &nbsp;Believer that data tells stories and my job is to listen
 - &nbsp;Debugger, no shame
 - &nbsp;Goal: Build impactful data-driven solutions
-- &nbsp;Student of Data Science'24
 
 </td>
 <td valign="top" width="40%" align="center">
