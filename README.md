@@ -29,7 +29,7 @@
 <tr>
 <td valign="top" width="60%">
 
-&nbsp;**Data Science** student by day, data detective by night — obsessed with finding the signal in the noise and building things that make an impact.
+&nbsp;**Data Science** student by day, data detective by night - obsessed with finding the signal in the noise and building things that make an impact.
 <br/>
 
 - &nbsp;Working on AI & ML projects
