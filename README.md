@@ -8,6 +8,7 @@
 <br/>
 
 <!-- Badges -->
+<div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=dimssrmdn01&style=flat-square&color=00d4ff&label=👁+Profile+Views)
 
@@ -28,7 +29,7 @@
 <tr>
 <td valign="top" width="60%">
 
- &nbsp;**Data Science** student by day, data detective by night - obsessed with finding the signal in the noise and building things that make an impact.
+&nbsp;**Data Science** student by day, data detective by night — obsessed with finding the signal in the noise and building things that make an impact.
 <br/>
 
 - &nbsp;Working on AI & ML projects
@@ -48,7 +49,7 @@
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -63,7 +64,7 @@
 
 ---
 
-##  Streak Stats
+## Streak Stats
 
 <div align="center">
 
@@ -71,10 +72,9 @@
 
 </div>
 
-
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -97,7 +97,6 @@
 
 **Tools**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-080c14?style=for-the-badge&logo=jupyter&logoColor=ffcc00)
 ![Kaggle](https://img.shields.io/badge/Kaggle-080c14?style=for-the-badge&logo=kaggle&logoColor=00d4ff)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-080c14?style=for-the-badge&logo=googlecolab&logoColor=a78bfa)
 ![MySQL](https://img.shields.io/badge/MySQL-080c14?style=for-the-badge&logo=mysql&logoColor=00d4ff)
@@ -110,7 +109,7 @@
 
 ---
 
-##  Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -120,7 +119,7 @@
 
 ---
 
-##  Quote of the Day
+## Quote of the Day
 
 <div align="center">
 
@@ -130,7 +129,7 @@
 
 ---
 
-##  Connect with Me
+## Connect with Me
 
 <div align="center">
 
