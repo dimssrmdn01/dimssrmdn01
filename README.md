@@ -50,17 +50,7 @@
 ---
 ## GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/dimssrmdn01">
-  <img height="180em" src="./profile/stats.svg"/>
-</a>
-<a href="https://github.com/dimssrmdn01">
-  <img height="180em" src="./profile/top-langs.svg"/>
-</a>
-
-</div>
-
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=dimssrmdn01&show_icons=true&theme=radical&rank_icon=github&border_radius=10&count_private=true&include_all_commits=true&token=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&v=20260529" width="1600px"/>
 ---
 ## Streak Stats
 
