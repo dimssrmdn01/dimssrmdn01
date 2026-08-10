@@ -53,10 +53,10 @@
 <div align="center">
 
 <a href="https://github.com/dimssrmdn01">
-  <img height="180em" src="https://github-stats-dimas.vercel.app/api?username=dimssrmdn01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=080c14&title_color=00d4ff&icon_color=a78bfa&text_color=c8d8f0&v=1"/>
+  <img height="180em" src="./profile/stats.svg"/>
 </a>
 <a href="https://github.com/dimssrmdn01">
-  <img height="180em" src="https://github-stats-dimas.vercel.app/api/top-langs/?username=dimssrmdn01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=00d4ff&text_color=c8d8f0&v=1"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </a>
 
 </div>
