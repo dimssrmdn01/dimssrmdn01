@@ -48,22 +48,20 @@
 </table>
 
 ---
-
 ## GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/dimssrmdn01">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dimssrmdn01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=080c14&title_color=00d4ff&icon_color=a78bfa&text_color=c8d8f0"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=dimssrmdn01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=080c14&title_color=00d4ff&icon_color=a78bfa&text_color=c8d8f0"/>
 </a>
 <a href="https://github.com/dimssrmdn01">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimssrmdn01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=00d4ff&text_color=c8d8f0"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dimssrmdn01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=00d4ff&text_color=c8d8f0"/>
 </a>
 
 </div>
 
 ---
-
 ## Streak Stats
 
 <div align="center">
