@@ -111,10 +111,9 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dimssrmdn01&bg_color=080c14&color=00d4ff&line=a78bfa&point=00d4ff&area=true&hide_border=true&area_color=00d4ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-activity-graph.vercel.app/graph?username=dimssrmdn01&bg_color=080c14&color=00d4ff&line=a78bfa&point=00d4ff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
-
 ---
 
 ## Quote of the Day
